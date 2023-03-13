@@ -426,7 +426,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "six_to_six.dsn",
-      "step": "",
+      "step": "six_to_six.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
