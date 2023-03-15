@@ -399,13 +399,12 @@
         "microvia_drill": 0.1,
         "name": "relay",
         "nets": [
-          "+12V",
-          "/One to Six splitter/Connectors/Relay-1",
-          "/One to Six splitter/Connectors/Relay-2",
-          "/One to Six splitter/Connectors/Relay-3",
-          "/One to Six splitter/Connectors/Relay-4",
-          "/One to Six splitter/Connectors/Relay-5",
-          "/One to Six splitter/Connectors/Relay-6"
+          "/Connectors/Relay-1",
+          "/Connectors/Relay-2",
+          "/Connectors/Relay-3",
+          "/Connectors/Relay-4",
+          "/Connectors/Relay-5",
+          "/Connectors/Relay-6"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -475,56 +474,52 @@
       ""
     ],
     [
-      "d2dfc2ca-8052-40b1-97a4-f9124c5ec57d",
-      "Relay Splitter2"
-    ],
-    [
-      "57b6b363-950f-4aa3-8e17-78c6c65678ac",
-      "Relay Splitter4"
-    ],
-    [
-      "3207fa89-5fc8-464d-848e-43f778de45f8",
-      "Coax Match Limiter"
-    ],
-    [
-      "9c6ab6ab-c05a-4222-afe6-4ec4ee9486cd",
-      "3-Way Splitter"
-    ],
-    [
-      "8ed8d1a0-8777-41b4-a32a-64c1295cb506",
-      "2-Way Splitter2"
-    ],
-    [
-      "f1175632-fdf0-4d52-95d5-a74aa93a72f2",
-      "Relay Splitter3"
-    ],
-    [
-      "28f4e2fd-9d8c-42db-9491-e4e4ad374f15",
-      "Relay Splitter6"
-    ],
-    [
-      "1f7dbe1b-cee6-4da3-a907-afd7e3eeb35c",
-      "Relay Splitter5"
-    ],
-    [
-      "7a7561cd-e45d-4a97-a8ce-f2fd6a4f3956",
+      "8719cab6-004f-46d4-af54-9509dfcce919",
       "2-Way Splitter3"
     ],
     [
-      "ebe7e631-aae9-4d37-9195-3c1db3767079",
-      "Connectors"
+      "d289472c-c768-41cf-8e52-ab3293be6c15",
+      "2-Way Splitter2"
     ],
     [
-      "ff01a08a-ed56-4b1c-b924-71b223a3e68f",
-      "2-Way Splitter1"
-    ],
-    [
-      "742d1394-8078-428b-bd82-149b2e4294a1",
+      "ccffca33-aeb8-43f6-bedc-597e1d127c3d",
       "Relay Splitter1"
     ],
     [
-      "9303bf38-1419-403b-a71a-e44ffa77061d",
-      "One to Six splitter"
+      "eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b",
+      "Relay Splitter2"
+    ],
+    [
+      "4e5b3f0d-58eb-470a-8468-bea3ef0525dc",
+      "Relay Splitter3"
+    ],
+    [
+      "0ad2c0a1-582f-4074-a8e7-5598e5003588",
+      "Relay Splitter4"
+    ],
+    [
+      "67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395",
+      "Relay Splitter5"
+    ],
+    [
+      "f12d7467-3bbc-44f5-b0bf-eef704da17c2",
+      "Relay Splitter6"
+    ],
+    [
+      "4b17a346-ea07-4773-862f-fd6f7394a949",
+      "Connectors"
+    ],
+    [
+      "60ac3c6a-ab11-4bc5-a470-140611bcd556",
+      "2-Way Splitter1"
+    ],
+    [
+      "249aa9ab-eec1-4cc7-9549-e1008b0e48ba",
+      "Coax Match Limiter"
+    ],
+    [
+      "b223b3c0-b73b-42a4-afcc-7ac62df69481",
+      "3-Way Splitter"
     ]
   ],
   "text_variables": {}

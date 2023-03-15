@@ -1,0 +1,118 @@
+
+(rules PCB six_to_six
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1644)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.5)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.7)
+    )
+  )
+  (rule
+    (width 500.0)
+    (clear 200.0)
+    (clear 250.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_800:400_um-gnd" "Via[0-1]_800:400_um" gnd
+  )
+  (via 
+    "Via[0-1]_800:400_um-relay" "Via[0-1]_800:400_um" relay
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (via_rule
+    gnd "Via[0-1]_800:400_um-gnd"
+  )
+  (via_rule
+    relay "Via[0-1]_800:400_um-relay"
+  )
+  (class default
+    "Net-(C10-Pad1)" +12V "Net-(C1-Pad1)" "Net-(C7-Pad2)" "/3-Way Splitter/RF-in" "Net-(J1-Pad1)" "Net-(J1-Pad2)" "Net-(C2-Pad1)"
+    "Net-(C3-Pad1)" "Net-(C4-Pad1)" "Net-(C5-Pad1)" "unconnected-(K1-Pad4)" "unconnected-(K1-Pad6)" "unconnected-(K1-Pad8)" "Net-(K1-Pad11)" "unconnected-(K2-Pad4)"
+    "unconnected-(K2-Pad6)" "unconnected-(K2-Pad8)" "Net-(K2-Pad11)" "unconnected-(K3-Pad4)" "unconnected-(K3-Pad6)" "unconnected-(K3-Pad8)" "Net-(K3-Pad11)" "unconnected-(K4-Pad4)"
+    "unconnected-(K4-Pad6)" "unconnected-(K4-Pad8)" "Net-(K4-Pad11)" "unconnected-(K5-Pad4)" "unconnected-(K5-Pad6)" "unconnected-(K5-Pad8)" "Net-(K5-Pad11)" "unconnected-(K6-Pad4)"
+    "unconnected-(K6-Pad6)" "unconnected-(K6-Pad8)" "Net-(K6-Pad11)" "/Connectors/RF-1" "/Connectors/RF-2" "/Connectors/RF-3" "/Connectors/RF-4" "Net-(C6-Pad1)"
+    "Net-(C7-Pad1)" "Net-(C8-Pad1)" "Net-(C9-Pad1)" "Net-(C11-Pad1)" "Net-(D1-Pad2)" "Net-(D2-Pad2)" "Net-(D3-Pad2)" "Net-(D4-Pad2)"
+    "/Connectors/RF-5" "Net-(D5-Pad2)" "Net-(D6-Pad2)" "/Connectors/RF-6" "/2-Way Splitter1/RF-out-1" "/2-Way Splitter1/RF-out-2" "/2-Way Splitter2/RF-out-1" "/2-Way Splitter2/RF-out-2"
+    "/2-Way Splitter3/RF-out-1" "/2-Way Splitter3/RF-out-2" "Net-(R13-Pad1)" "Net-(R13-Pad2)" "/2-Way Splitter1/RF-in" "Net-(R14-Pad2)" "/2-Way Splitter3/RF-in" "/2-Way Splitter2/RF-in"
+    "Net-(TR6-Pad4)" "Net-(TR8-Pad4)" "Net-(TR10-Pad4)" "Net-(D7-Pad2)" "Net-(D9-Pad2)" "Net-(D9-Pad1)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class gnd
+    GND
+    (clearance_class gnd)
+    (via_rule gnd)
+    (rule
+      (width 350.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class relay
+    "/Connectors/Relay-1" "/Connectors/Relay-6" "/Connectors/Relay-2" "/Connectors/Relay-5" "/Connectors/Relay-3" "/Connectors/Relay-4"
+    (clearance_class relay)
+    (via_rule relay)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
