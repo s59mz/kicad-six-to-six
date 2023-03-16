@@ -3801,6 +3801,7 @@
     )
   )
 
+  (gr_circle (center 729.615 234.315) (end 730.25 234.315) (layer "F.SilkS") (width 0.15) (fill solid) (tstamp 046498f7-be7a-4d95-8a03-00a24eee07df))
   (gr_arc locked (start 641.35 160.02) (mid 641.535987 159.570987) (end 641.985 159.385) (layer "Edge.Cuts") (width 0.1) (tstamp 2c7f88e9-8d70-46b8-bd5c-219f416a77a8))
   (gr_line locked (start 755.015 159.385) (end 641.985 159.385) (layer "Edge.Cuts") (width 0.1) (tstamp 5722b0cb-2925-4da3-a853-948c93468ce4))
   (gr_line locked (start 755.015 236.855) (end 641.985 236.855) (layer "Edge.Cuts") (width 0.1) (tstamp 6c2b7675-51f1-4103-8c28-4d99e9358132))
