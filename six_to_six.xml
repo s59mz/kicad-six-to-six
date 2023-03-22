@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/matjaz/kicad/six_to_six/six_to_six.kicad_sch</source>
+    <date>sre 22 mar 2023 12:44:37</date>
+    <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Six_to_six</title>
+        <company>S59MZ</company>
+        <rev>1.0</rev>
+        <date>2023-02-18</date>
+        <source>six_to_six.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/2-Way Splitter3/" tstamps="/8719cab6-004f-46d4-af54-9509dfcce919/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2_way_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/2-Way Splitter2/" tstamps="/d289472c-c768-41cf-8e52-ab3293be6c15/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2_way_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>relay_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Connectors/" tstamps="/4b17a346-ea07-4773-862f-fd6f7394a949/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>connectors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/2-Way Splitter1/" tstamps="/60ac3c6a-ab11-4bc5-a470-140611bcd556/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2_way_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>coax_match_limiter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>3_way_splitter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="six_to_six.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc284707-8940-4e1e-af9b-bbea79ddefa6</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="six_to_six.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11f0a6d2-7102-4b49-88dd-d05076c4f276</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="six_to_six.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db9e46d1-588d-4228-ba5d-ddbcf77c474b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>68p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="2-Way Splitter3"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter3/" tstamps="/8719cab6-004f-46d4-af54-9509dfcce919/"/>
+      <tstamps>bd36f386-82ee-4c5c-a57e-5333b0a19d29</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="2-Way Splitter3"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter3/" tstamps="/8719cab6-004f-46d4-af54-9509dfcce919/"/>
+      <tstamps>9ee2d8f1-d8cd-4653-93cc-ef791c610acf</tstamps>
+    </comp>
+    <comp ref="TR10">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-3-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-trifilar" description="BN-73-auto-3-transformer"/>
+      <property name="Sheetname" value="2-Way Splitter3"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter3/" tstamps="/8719cab6-004f-46d4-af54-9509dfcce919/"/>
+      <tstamps>bb487d82-53ce-49cb-b58b-b8a681bfe34e</tstamps>
+    </comp>
+    <comp ref="TR11">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="2-Way Splitter3"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter3/" tstamps="/8719cab6-004f-46d4-af54-9509dfcce919/"/>
+      <tstamps>7eed899a-3fcc-4bf4-bff0-8bb1fed698db</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>68p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="2-Way Splitter2"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter2/" tstamps="/d289472c-c768-41cf-8e52-ab3293be6c15/"/>
+      <tstamps>bd36f386-82ee-4c5c-a57e-5333b0a19d29</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="2-Way Splitter2"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter2/" tstamps="/d289472c-c768-41cf-8e52-ab3293be6c15/"/>
+      <tstamps>9ee2d8f1-d8cd-4653-93cc-ef791c610acf</tstamps>
+    </comp>
+    <comp ref="TR8">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-3-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-trifilar" description="BN-73-auto-3-transformer"/>
+      <property name="Sheetname" value="2-Way Splitter2"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter2/" tstamps="/d289472c-c768-41cf-8e52-ab3293be6c15/"/>
+      <tstamps>bb487d82-53ce-49cb-b58b-b8a681bfe34e</tstamps>
+    </comp>
+    <comp ref="TR9">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="2-Way Splitter2"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter2/" tstamps="/d289472c-c768-41cf-8e52-ab3293be6c15/"/>
+      <tstamps>7eed899a-3fcc-4bf4-bff0-8bb1fed698db</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter1"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter1/" tstamps="/ccffca33-aeb8-43f6-bedc-597e1d127c3d/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter2"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter2/" tstamps="/eedbe8f0-ceb4-4e5f-8c91-7f847ddc928b/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter3"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter3/" tstamps="/4e5b3f0d-58eb-470a-8468-bea3ef0525dc/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter4"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter4/" tstamps="/0ad2c0a1-582f-4074-a8e7-5598e5003588/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter5"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter5/" tstamps="/67acc9f8-2aa3-4bfd-8167-7e0e6b5ab395/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>613ae30d-a5aa-40e2-80ed-31daf4188775</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>f2df7bc6-15b5-4a31-ab08-d8b62f5221a3</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>RY-12W-K</value>
+      <footprint>Components:RELAY_RY-12W-K</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</datasheet>
+      <libsource lib="Components" part="RY-12W-K" description="American Zettler, Microminiature Polarised Dual Pole Relay"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>7a45713f-7689-4634-aa7d-459f02614590</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>4fae70c7-db0f-443f-963b-499619b5aca8</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>50E</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>87acb81f-6349-4960-8d99-5817dcfe1b2b</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>3k3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Relay Splitter6"/>
+      <property name="Sheetfile" value="relay_splitter.kicad_sch"/>
+      <sheetpath names="/Relay Splitter6/" tstamps="/f12d7467-3bbc-44f5-b0bf-eef704da17c2/"/>
+      <tstamps>36a97357-5de2-4d7d-b637-8872b4260534</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/4b17a346-ea07-4773-862f-fd6f7394a949/"/>
+      <tstamps>c99557c2-6adf-41fe-b91a-c74a9cf4bb70</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Relay control</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Components" part="Conn_02x04_Odd_Even" description="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/4b17a346-ea07-4773-862f-fd6f7394a949/"/>
+      <tstamps>3fc17c3e-f16d-4970-bbd2-86abfae8d1db</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>RF Conn</value>
+      <footprint>Components:PinHeader_2x06_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/4b17a346-ea07-4773-862f-fd6f7394a949/"/>
+      <tstamps>e9016b97-ee4a-4e33-bc5e-2b00d227846e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>68p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="2-Way Splitter1"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter1/" tstamps="/60ac3c6a-ab11-4bc5-a470-140611bcd556/"/>
+      <tstamps>bd36f386-82ee-4c5c-a57e-5333b0a19d29</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="2-Way Splitter1"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter1/" tstamps="/60ac3c6a-ab11-4bc5-a470-140611bcd556/"/>
+      <tstamps>9ee2d8f1-d8cd-4653-93cc-ef791c610acf</tstamps>
+    </comp>
+    <comp ref="TR6">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-3-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-trifilar" description="BN-73-auto-3-transformer"/>
+      <property name="Sheetname" value="2-Way Splitter1"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter1/" tstamps="/60ac3c6a-ab11-4bc5-a470-140611bcd556/"/>
+      <tstamps>bb487d82-53ce-49cb-b58b-b8a681bfe34e</tstamps>
+    </comp>
+    <comp ref="TR7">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="2-Way Splitter1"/>
+      <property name="Sheetfile" value="2_way_splitter.kicad_sch"/>
+      <sheetpath names="/2-Way Splitter1/" tstamps="/60ac3c6a-ab11-4bc5-a470-140611bcd556/"/>
+      <tstamps>7eed899a-3fcc-4bf4-bff0-8bb1fed698db</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>381b9501-2674-4e93-8f5a-15d07bd9a534</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>f420fcdf-b91a-4dc4-8d16-3b9b101965c8</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>3a5ceb6a-c5ff-4968-aa1f-e8881c63ef1f</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>790bed07-87f8-4dca-881a-f32733246b59</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>022231e4-6777-45ae-9bf8-7a8e5635ce72</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm</footprint>
+      <libsource lib="Components" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>561553ff-45b0-428e-b4e2-d140b18ef9b0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>BNC</value>
+      <footprint>Components:BNC_horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Components" part="BNC" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>3815c5ea-8a15-44ca-a8ca-a175b9d64d65</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>limiter</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Components" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>f92a6b3c-3f1e-44dd-ad4c-37bb87890d1d</tstamps>
+    </comp>
+    <comp ref="NE1">
+      <value>Lamp_Neon</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Components" part="Lamp_Neon" description="Neon lamp"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>dcab46b4-678d-4cc0-80bb-31c792f0f0b9</tstamps>
+    </comp>
+    <comp ref="TR1">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-balun</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-transformer" description="BN-73 balun"/>
+      <property name="Sheetname" value="Coax Match Limiter"/>
+      <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>
+      <sheetpath names="/Coax Match Limiter/" tstamps="/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/"/>
+      <tstamps>3f7e9744-b137-4c7b-b29d-4631cbda6114</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>68p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>cc9582f3-77cc-4020-a13c-77f590d6df02</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>68E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>91e89fb1-a412-47da-a490-f8934703410b</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>68E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>117edfd4-c1df-4216-b6db-f31f54a976c5</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>68E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>514d33eb-f80c-498a-9e0b-ffb4b863ab4f</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>18E</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>8434ada1-6424-445a-a0f6-e4e8bff93164</tstamps>
+    </comp>
+    <comp ref="TR2">
+      <value>BN-73-202</value>
+      <footprint>Components:BN-73-202-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>39dd03dd-5bfd-4e8b-91f8-31fbd0054096</tstamps>
+    </comp>
+    <comp ref="TR3">
+      <value>BN-73-202</value>
+      <footprint>Components:BN-73-202-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>7e830e95-1540-4794-b214-338a2db9ea6e</tstamps>
+    </comp>
+    <comp ref="TR4">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>04e5ac47-6c67-4e8e-82d2-3e74ae687cfc</tstamps>
+    </comp>
+    <comp ref="TR5">
+      <value>BN-73-6802</value>
+      <footprint>Components:BN-73-6802-2-0</footprint>
+      <datasheet>none</datasheet>
+      <libsource lib="Components" part="BN-73-bifilar" description="BN-73-bifilar"/>
+      <property name="Sheetname" value="3-Way Splitter"/>
+      <property name="Sheetfile" value="3_way_splitter.kicad_sch"/>
+      <sheetpath names="/3-Way Splitter/" tstamps="/b223b3c0-b73b-42a4-afcc-7ac62df69481/"/>
+      <tstamps>3f8e53ff-7620-4684-ae87-3ac5e598cfd2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Components" part="BN-73-bifilar">
+      <description>BN-73-bifilar</description>
+      <docs>none</docs>
+      <footprints>
+        <fp>*bn-73-*-2-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TR?</field>
+        <field name="Value">BN-73-bifilar</field>
+        <field name="Footprint">Components:BN-73-6802-2-0</field>
+        <field name="Datasheet">none</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="BN-73-transformer">
+      <description>BN-73 balun</description>
+      <docs>none</docs>
+      <footprints>
+        <fp>*bn-73*-1-*</fp>
+        <fp>*bn-73*-balun</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TR?</field>
+        <field name="Value">BN-73-transformer</field>
+        <field name="Footprint">Components:BN-73-6802-1-1</field>
+        <field name="Datasheet">none</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="BN-73-trifilar">
+      <description>BN-73-auto-3-transformer</description>
+      <docs>none</docs>
+      <footprints>
+        <fp>*bn-73-*-3-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TR?</field>
+        <field name="Value">BN-73-trifilar</field>
+        <field name="Footprint">Components:BN-73-6802-3-0</field>
+        <field name="Datasheet">none</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="BNC">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">BNC</field>
+        <field name="Footprint">Components:BNC_vertical</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J7</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="Conn_02x04_Odd_Even">
+      <description>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J8</field>
+        <field name="Value">Conn_02x04_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="Lamp_Neon">
+      <description>Neon lamp</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">NE?</field>
+        <field name="Value">Lamp_Neon</field>
+        <field name="Footprint">LED_THT:LED_D5.0mm_Clear</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F?</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Footprint">Fuse:Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Components" part="RY-12W-K">
+      <description>American Zettler, Microminiature Polarised Dual Pole Relay</description>
+      <docs>https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</docs>
+      <footprints>
+        <fp>Relay*DPDT*FRT5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">RY-12W-K</field>
+        <field name="Footprint">Components:RELAY_RY-12W-K</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/164/ry-914629.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148W">
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <docs>https://www.vishay.com/docs/85748/1n4148w.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBT3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Components">
+      <uri>/home/matjaz/kicad/six_to_six/Components.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+      <node ref="K3" pin="1" pintype="passive"/>
+      <node ref="K4" pin="1" pintype="passive"/>
+      <node ref="K5" pin="1" pintype="passive"/>
+      <node ref="K6" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/2-Way Splitter1/RF-in">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="TR4" pin="1" pintype="passive"/>
+      <node ref="TR6" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/2-Way Splitter1/RF-out-1">
+      <node ref="K1" pin="13" pintype="passive"/>
+      <node ref="K1" pin="4" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="TR7" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/2-Way Splitter1/RF-out-2">
+      <node ref="K2" pin="13" pintype="passive"/>
+      <node ref="K2" pin="4" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="TR7" pin="4" pintype="passive"/>
+    </net>
+    <net code="5" name="/2-Way Splitter2/RF-in">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="TR8" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/2-Way Splitter2/RF-out-1">
+      <node ref="K3" pin="13" pintype="passive"/>
+      <node ref="K3" pin="4" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="TR9" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/2-Way Splitter2/RF-out-2">
+      <node ref="K4" pin="13" pintype="passive"/>
+      <node ref="K4" pin="4" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="TR9" pin="4" pintype="passive"/>
+    </net>
+    <net code="8" name="/2-Way Splitter3/RF-in">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="TR10" pin="1" pintype="passive"/>
+      <node ref="TR5" pin="4" pintype="passive"/>
+    </net>
+    <net code="9" name="/2-Way Splitter3/RF-out-1">
+      <node ref="K5" pin="13" pintype="passive"/>
+      <node ref="K5" pin="4" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="TR11" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/2-Way Splitter3/RF-out-2">
+      <node ref="K6" pin="13" pintype="passive"/>
+      <node ref="K6" pin="4" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="TR11" pin="4" pintype="passive"/>
+    </net>
+    <net code="11" name="/3-Way Splitter/RF-in">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TR2" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/Connectors/RF-1">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="8" pintype="passive"/>
+      <node ref="K1" pin="9" pintype="passive"/>
+    </net>
+    <net code="13" name="/Connectors/RF-2">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K2" pin="8" pintype="passive"/>
+      <node ref="K2" pin="9" pintype="passive"/>
+    </net>
+    <net code="14" name="/Connectors/RF-3">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="K3" pin="8" pintype="passive"/>
+      <node ref="K3" pin="9" pintype="passive"/>
+    </net>
+    <net code="15" name="/Connectors/RF-4">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="K4" pin="8" pintype="passive"/>
+      <node ref="K4" pin="9" pintype="passive"/>
+    </net>
+    <net code="16" name="/Connectors/RF-5">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="K5" pin="8" pintype="passive"/>
+      <node ref="K5" pin="9" pintype="passive"/>
+    </net>
+    <net code="17" name="/Connectors/RF-6">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="K6" pin="8" pintype="passive"/>
+      <node ref="K6" pin="9" pintype="passive"/>
+    </net>
+    <net code="18" name="/Connectors/Relay-1">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/Connectors/Relay-2">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="/Connectors/Relay-3">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/Connectors/Relay-4">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/Connectors/Relay-5">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/Connectors/Relay-6">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="2" pintype="passive"/>
+      <node ref="TR10" pin="6" pintype="passive"/>
+      <node ref="TR2" pin="4" pintype="passive"/>
+      <node ref="TR6" pin="6" pintype="passive"/>
+      <node ref="TR8" pin="6" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="4" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="TR2" pin="2" pintype="passive"/>
+      <node ref="TR2" pin="3" pintype="passive"/>
+      <node ref="TR3" pin="2" pintype="passive"/>
+      <node ref="TR3" pin="3" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="TR6" pin="2" pintype="passive"/>
+      <node ref="TR6" pin="3" pintype="passive"/>
+      <node ref="TR7" pin="2" pintype="passive"/>
+      <node ref="TR7" pin="3" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="TR8" pin="2" pintype="passive"/>
+      <node ref="TR8" pin="3" pintype="passive"/>
+      <node ref="TR9" pin="2" pintype="passive"/>
+      <node ref="TR9" pin="3" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="TR10" pin="2" pintype="passive"/>
+      <node ref="TR10" pin="3" pintype="passive"/>
+      <node ref="TR11" pin="2" pintype="passive"/>
+      <node ref="TR11" pin="3" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="16" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="16" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="16" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="16" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K5" pin="16" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K6" pin="16" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="NE1" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="3" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="NE1" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(K1-Pad11)">
+      <node ref="K1" pin="11" pintype="passive"/>
+      <node ref="K1" pin="6" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(K2-Pad11)">
+      <node ref="K2" pin="11" pintype="passive"/>
+      <node ref="K2" pin="6" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(K3-Pad11)">
+      <node ref="K3" pin="11" pintype="passive"/>
+      <node ref="K3" pin="6" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(K4-Pad11)">
+      <node ref="K4" pin="11" pintype="passive"/>
+      <node ref="K4" pin="6" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(K5-Pad11)">
+      <node ref="K5" pin="11" pintype="passive"/>
+      <node ref="K5" pin="6" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(K6-Pad11)">
+      <node ref="K6" pin="11" pintype="passive"/>
+      <node ref="K6" pin="6" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="TR3" pin="1" pintype="passive"/>
+      <node ref="TR4" pin="2" pintype="passive"/>
+      <node ref="TR4" pin="3" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="TR3" pin="4" pintype="passive"/>
+      <node ref="TR5" pin="2" pintype="passive"/>
+      <node ref="TR5" pin="3" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="TR4" pin="4" pintype="passive"/>
+      <node ref="TR5" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(TR6-Pad4)">
+      <node ref="TR6" pin="4" pintype="passive"/>
+      <node ref="TR6" pin="5" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(TR8-Pad4)">
+      <node ref="TR8" pin="4" pintype="passive"/>
+      <node ref="TR8" pin="5" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(TR10-Pad4)">
+      <node ref="TR10" pin="4" pintype="passive"/>
+      <node ref="TR10" pin="5" pintype="passive"/>
+    </net>
+  </nets>
+</export>
