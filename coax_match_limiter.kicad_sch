@@ -640,7 +640,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3815c5ea-8a15-44ca-a8ca-a175b9d64d65)
     (property "Reference" "J1" (id 0) (at 72.7074 72.39 0))
-    (property "Value" "BNC" (id 1) (at 72.7074 74.93 0))
+    (property "Value" "BNC 031-5431-10RFX" (id 1) (at 72.7074 74.93 0))
     (property "Footprint" "Components:BNC_horizontal" (id 2) (at 72.39 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )

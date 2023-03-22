@@ -1164,7 +1164,7 @@
       (reference "H3") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/3815c5ea-8a15-44ca-a8ca-a175b9d64d65"
-      (reference "J1") (unit 1) (value "BNC") (footprint "Components:BNC_horizontal")
+      (reference "J1") (unit 1) (value "BNC 031-5431-10RFX") (footprint "Components:BNC_horizontal")
     )
     (path "/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/f92a6b3c-3f1e-44dd-ad4c-37bb87890d1d"
       (reference "J2") (unit 1) (value "limiter") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")

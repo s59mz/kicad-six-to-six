@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/matjaz/kicad/six_to_six/six_to_six.kicad_sch</source>
-    <date>sre 22 mar 2023 13:18:33</date>
+    <date>sre 22 mar 2023 13:47:04</date>
     <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -809,7 +809,7 @@
       <tstamps>561553ff-45b0-428e-b4e2-d140b18ef9b0</tstamps>
     </comp>
     <comp ref="J1">
-      <value>BNC</value>
+      <value>BNC 031-5431-10RFX</value>
       <footprint>Components:BNC_horizontal</footprint>
       <datasheet>https://www.farnell.com/cad/2353820.pdf</datasheet>
       <libsource lib="Components" part="BNC" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
