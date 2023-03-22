@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/matjaz/kicad/six_to_six/six_to_six.kicad_sch</source>
-    <date>sre 22 mar 2023 12:44:37</date>
+    <date>sre 22 mar 2023 13:18:33</date>
     <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -811,7 +811,7 @@
     <comp ref="J1">
       <value>BNC</value>
       <footprint>Components:BNC_horizontal</footprint>
-      <datasheet> ~</datasheet>
+      <datasheet>https://www.farnell.com/cad/2353820.pdf</datasheet>
       <libsource lib="Components" part="BNC" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="Sheetname" value="Coax Match Limiter"/>
       <property name="Sheetfile" value="coax_match_limiter.kicad_sch"/>

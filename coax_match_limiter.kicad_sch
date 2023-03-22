@@ -644,7 +644,7 @@
     (property "Footprint" "Components:BNC_horizontal" (id 2) (at 72.39 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" " ~" (id 3) (at 72.39 80.01 0)
+    (property "Datasheet" "https://www.farnell.com/cad/2353820.pdf" (id 3) (at 72.39 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 15647078-bb7b-4f99-a930-6ab6b692451f))
