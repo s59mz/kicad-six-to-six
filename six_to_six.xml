@@ -2,12 +2,12 @@
 <export version="E">
   <design>
     <source>/home/matjaz/kicad/six_to_six/six_to_six.kicad_sch</source>
-    <date>sre 22 mar 2023 13:47:04</date>
+    <date>pon 27 mar 2023 15:33:25</date>
     <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Six_to_six</title>
-        <company>S59MZ</company>
+        <company>S55O, S59MZ</company>
         <rev>1.0</rev>
         <date>2023-02-18</date>
         <source>six_to_six.kicad_sch</source>
@@ -838,7 +838,7 @@
     </comp>
     <comp ref="TR1">
       <value>BN-73-6802</value>
-      <footprint>Components:BN-73-6802-balun</footprint>
+      <footprint>Components:BN-73-6802-2-0</footprint>
       <datasheet>none</datasheet>
       <libsource lib="Components" part="BN-73-transformer" description="BN-73 balun"/>
       <property name="Sheetname" value="Coax Match Limiter"/>

@@ -1272,7 +1272,7 @@
       (reference "R19") (unit 1) (value "100E") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/249aa9ab-eec1-4cc7-9549-e1008b0e48ba/3f7e9744-b137-4c7b-b29d-4631cbda6114"
-      (reference "TR1") (unit 1) (value "BN-73-6802") (footprint "Components:BN-73-6802-balun")
+      (reference "TR1") (unit 1) (value "BN-73-6802") (footprint "Components:BN-73-6802-2-0")
     )
     (path "/b223b3c0-b73b-42a4-afcc-7ac62df69481/39dd03dd-5bfd-4e8b-91f8-31fbd0054096"
       (reference "TR2") (unit 1) (value "BN-73-202") (footprint "Components:BN-73-202-2-0")
